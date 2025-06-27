@@ -11,7 +11,5 @@ int main()
     else 
     printf("special symbol");
     return 0;
-
-   #include<stdio.h>
     
 }

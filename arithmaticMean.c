@@ -17,5 +17,5 @@ int main()
    printf("Arithmetic Mean is: %f",AM);
    printf("\nHarmonic Mean is: %f",HM);
    
-   getchar();
+   
 }

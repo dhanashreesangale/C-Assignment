@@ -12,13 +12,13 @@ int main()
     if(sp>cp)
     {
         p=sp-cp;
-        printf("Seller had made profit of %d rupees",p);
+        printf("Seller had made profit ",p);
 
     }
     else
     {
         l=cp-sp;
-        printf("Seller had loss of %d rupees",l);
+        printf("Seller had loss ",l);
     }
 
 }
